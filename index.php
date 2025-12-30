@@ -1,5 +1,6 @@
 <?php
 // index.php
+// TODO: Implement database connection for persistent storage
 $submitted = false;
 $score = 0;
 
